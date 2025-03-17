@@ -29,5 +29,7 @@ replay_pid*
 /.idea/MyGuide.iml
 /.idea/vcs.xml
 /docs/6. 行为*技能/
+!/docs/6. 行为*技能/02.如何激励团队在高压环境下保持高效.md
+!/docs/6. 行为*技能/04.描述一个你在技术或管理上的关键决策，以及结果如何.md
 /docs/7. *业务相关/
 /docs/8. *期望/
